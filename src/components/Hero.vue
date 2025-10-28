@@ -86,7 +86,7 @@
 
 <script setup>
 import { CheckCircle, TicketCheck } from 'lucide-vue-next'
-import heroConstants from '../constants/hero'
+import heroConstants from '../constants/Hero.js'
 
 // Define props
 defineProps({
