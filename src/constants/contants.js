@@ -155,7 +155,7 @@ export const Toast = {
   `
 };
 
-// Alternative Toast component using render function (optional)
+// Alternative Toast component using render function (optional maybe)
 export const ToastRender = {
   name: 'ToastRender',
   components: {
